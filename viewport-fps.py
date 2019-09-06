@@ -21,7 +21,7 @@ import time
 bl_info = {
     "name":        "Viewport FPS",
     "author":      "Scott Winkelmann <scottlandart@gmail.com>",
-    "version":     (1, 0, 0),
+    "version":     (1, 0, 1),
     "blender":     (2, 80, 0),
     "location":    "Properties Panel > Active Tool and Workspace settings",
     "description": "This add-on calculates the minimum, maximum and average FPS of the viewport",
