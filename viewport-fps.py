@@ -154,7 +154,7 @@ class WfCancelTest(bpy.types.Operator):
 class WfPanel(bpy.types.Panel):
     """Creates a Panel in the Object properties window"""
 
-    bl_label = "Wiewport FPS"
+    bl_label = "Viewport FPS"
     bl_idname = "VIEW_3D_PT_wf"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
